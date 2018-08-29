@@ -26,3 +26,6 @@ NOTE: The master branch version of the `count-cjoc-json.groovy` script is for th
 
 4.    Copy + Paste the output into a file and send it to the CloudBees team
     <img src="images/4-result.png" title="Result" width="500" />
+
+
+5. Added new copy to test github slack notifications
